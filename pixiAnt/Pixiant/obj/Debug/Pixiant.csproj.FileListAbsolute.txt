@@ -1,0 +1,13 @@
+C:\Users\garba\source\repos\Pixiant\Pixiant\bin\Debug\Pixiant.exe.config
+C:\Users\garba\source\repos\Pixiant\Pixiant\bin\Debug\Pixiant.exe
+C:\Users\garba\source\repos\Pixiant\Pixiant\bin\Debug\Pixiant.pdb
+C:\Users\garba\source\repos\Pixiant\Pixiant\obj\Debug\Pixiant.csproj.AssemblyReference.cache
+C:\Users\garba\source\repos\Pixiant\Pixiant\obj\Debug\Pixiant.csproj.SuggestedBindingRedirects.cache
+C:\Users\garba\source\repos\Pixiant\Pixiant\obj\Debug\Pixiant.Form1.resources
+C:\Users\garba\source\repos\Pixiant\Pixiant\obj\Debug\Pixiant.Form2.resources
+C:\Users\garba\source\repos\Pixiant\Pixiant\obj\Debug\Pixiant.Properties.Resources.resources
+C:\Users\garba\source\repos\Pixiant\Pixiant\obj\Debug\Pixiant.csproj.GenerateResource.cache
+C:\Users\garba\source\repos\Pixiant\Pixiant\obj\Debug\Pixiant.csproj.CoreCompileInputs.cache
+C:\Users\garba\source\repos\Pixiant\Pixiant\obj\Debug\Pixiant.exe
+C:\Users\garba\source\repos\Pixiant\Pixiant\obj\Debug\Pixiant.pdb
+C:\Users\garba\source\repos\Pixiant\Pixiant\obj\Debug\Pixiant.Form3.resources

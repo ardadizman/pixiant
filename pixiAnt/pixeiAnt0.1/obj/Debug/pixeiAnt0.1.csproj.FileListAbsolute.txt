@@ -1,0 +1,16 @@
+C:\Users\garba\source\repos\pixiAnt\pixeiAnt0.1\obj\Debug\pixeiAnt0.1.csproj.AssemblyReference.cache
+C:\Users\garba\source\repos\pixiAnt\pixeiAnt0.1\obj\Debug\pixeiAnt0.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\garba\source\repos\pixiAnt\pixeiAnt0.1\obj\Debug\MainWindow.g.cs
+C:\Users\garba\source\repos\pixiAnt\pixeiAnt0.1\obj\Debug\App.g.cs
+C:\Users\garba\source\repos\pixiAnt\pixeiAnt0.1\obj\Debug\pixeiAnt0.1_MarkupCompile.cache
+C:\Users\garba\source\repos\pixiAnt\pixeiAnt0.1\obj\Debug\pixeiAnt0.1_MarkupCompile.lref
+C:\Users\garba\source\repos\pixiAnt\pixeiAnt0.1\bin\Debug\pixeiAnt0.1.exe.config
+C:\Users\garba\source\repos\pixiAnt\pixeiAnt0.1\bin\Debug\pixeiAnt0.1.exe
+C:\Users\garba\source\repos\pixiAnt\pixeiAnt0.1\bin\Debug\pixeiAnt0.1.pdb
+C:\Users\garba\source\repos\pixiAnt\pixeiAnt0.1\obj\Debug\MainWindow.baml
+C:\Users\garba\source\repos\pixiAnt\pixeiAnt0.1\obj\Debug\pixeiAnt0.1.g.resources
+C:\Users\garba\source\repos\pixiAnt\pixeiAnt0.1\obj\Debug\pixeiAnt0._1.Properties.Resources.resources
+C:\Users\garba\source\repos\pixiAnt\pixeiAnt0.1\obj\Debug\pixeiAnt0.1.csproj.GenerateResource.cache
+C:\Users\garba\source\repos\pixiAnt\pixeiAnt0.1\obj\Debug\pixeiAnt0.1.csproj.CoreCompileInputs.cache
+C:\Users\garba\source\repos\pixiAnt\pixeiAnt0.1\obj\Debug\pixeiAnt0.1.exe
+C:\Users\garba\source\repos\pixiAnt\pixeiAnt0.1\obj\Debug\pixeiAnt0.1.pdb
